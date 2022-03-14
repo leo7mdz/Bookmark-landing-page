@@ -108,6 +108,7 @@ body {
 }
 .box {
   padding: 1rem 1.8rem;
+  scroll-margin-top: 6rem;
 }
 .title {
   text-align: center;
